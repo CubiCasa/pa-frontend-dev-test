@@ -2,7 +2,7 @@
 A Vue programming task for front end recruitment purpose.
 
 # Tasks
-1. Clone this repo to your local machine.
+1. Download this repo to your local machine.
 2. Get an API key from Napster and use it to:
 3. Build an UI that:
 + Displays the top 20 albums of the day (name, artist name and release date).
